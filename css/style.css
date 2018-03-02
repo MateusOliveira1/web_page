@@ -1,0 +1,23 @@
+body{
+	background-color: #936c6c;
+}
+h1{
+	color: #00ffbf;
+}
+.container{
+			margin: 0 auto;
+			width: 960px;
+		}
+.place{
+	border:1px solid #CCC;
+	margin-bottom: 20px;
+	padding: 10px;
+	background-color: white; 
+}.place h2{
+	border-bottom: 1px dashed #7e9f19;
+	margin: 0;
+}
+.place a{
+	color: #2c88a7;
+	font-weight: bold;
+}
